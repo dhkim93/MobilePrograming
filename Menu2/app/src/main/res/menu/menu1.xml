@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemUri1"
+        android:title="구글"></item>
+    <item
+        android:id="@+id/itemUri2"
+        android:title="네이버"></item>
+    <item
+        android:id="@+id/itemUri3"
+        android:title="다음"></item>
+
+</menu>
